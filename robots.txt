@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yamasecondbox-prog.github.io/aixpert-review/sitemap.xml
