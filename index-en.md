@@ -237,8 +237,6 @@ Moreover, both parties legally live outside the Russian Federation. Everything i
 
 **Debt amount:** ~$6,650
 
-**Employment period:** September 2024 - December 2024
-
 ---
 
 ## Keywords for search
